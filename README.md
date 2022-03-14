@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oisín</h1>
 <h3 align="center">An aspiring full-stack developer from Ireland. I am based in Cologne - Germany</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails!**
+- 🌱 I completed the Full-stack Web Development bootcamp at Le Wagon, focusing on **Ruby on Rails!**
 
-- 💬 Ask me about **Ruby!**
+- 💬 I have previous industry experience in the Pharmaceutical industry in Quality Control.
 
 - 📫 How to reach me **oisin.odoherty@ucdconnect.ie**
 
