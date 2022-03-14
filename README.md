@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oisín</h1>
-<h3 align="center">A passionate frontend developer from Ireland</h3>
+<h3 align="center">An aspiring full-stack developer from Ireland. I am based in Cologne - Germany</h3>
 
 - 🌱 I’m currently learning **Ruby on Rails!**
 
